@@ -1,0 +1,15 @@
+.card__position{
+    writing-mode: vertical-rl;
+    font-family: 'PT Serif';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 350px) {
+    .card__position{
+        font-size: 10px;
+        line-height: 13.25px;
+    }
+}

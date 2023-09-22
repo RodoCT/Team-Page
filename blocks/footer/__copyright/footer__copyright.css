@@ -1,0 +1,13 @@
+.footer__copyright{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A9A9A9;
+}
+
+@media screen and (max-width: 460px) {
+    .footer__copyright{
+        font-weight: 500;
+    }
+}

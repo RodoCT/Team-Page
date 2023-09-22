@@ -1,0 +1,13 @@
+.card__name{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+@media screen and (max-width: 350px) {
+    .card__name{
+        font-size: 14px;
+        line-height: 21px;
+    }
+}

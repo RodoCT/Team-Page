@@ -1,0 +1,9 @@
+.card__info-margin{
+    margin-top: 100px;
+}
+
+@media screen and (max-width: 350px) {
+    .card__info-margin{
+        margin: auto;
+    }
+}
