@@ -3,3 +3,9 @@
         margin-top: 50px;
     }
 }
+
+@media screen and (max-width: 490px) {
+    .card__info-320{
+        margin-top: 70px;
+    }
+}

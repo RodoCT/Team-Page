@@ -7,3 +7,9 @@
         margin: auto;
     }
 }
+
+@media screen and (max-width: 490px) {
+    .card__info-margin{
+        margin: auto;
+    }
+}
